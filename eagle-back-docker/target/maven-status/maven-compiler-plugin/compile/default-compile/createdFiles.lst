@@ -1,0 +1,14 @@
+br\com\sptech\eagle\back\ConexaoBancoH2.class
+br\com\sptech\eagle\back\MedidaDisco.class
+br\com\sptech\eagle\back\ModelBd2$1.class
+br\com\sptech\eagle\back\VerificacaoUsuario.class
+br\com\sptech\eagle\back\ConexaoBancoSQL.class
+br\com\sptech\eagle\back\MedidaCpu.class
+br\com\sptech\eagle\back\ModelBd$1.class
+br\com\sptech\eagle\back\VerificarHost.class
+br\com\sptech\eagle\back\MedidaMemoria.class
+br\com\sptech\eagle\back\AplicacaoMonitoramento.class
+br\com\sptech\eagle\back\ConexaoBancoServer.class
+br\com\sptech\eagle\back\ModelBd2.class
+br\com\sptech\eagle\back\BuscarMedidas.class
+br\com\sptech\eagle\back\ModelBd.class
