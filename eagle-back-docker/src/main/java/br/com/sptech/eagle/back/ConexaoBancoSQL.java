@@ -20,7 +20,7 @@ public class ConexaoBancoSQL {
         //Bancos relacionais têm uma string de conexão, qual banco estou usando: MySQL, 
         //a url, nome do servidor, porta do servidor, nome do banco de dados.
         //jdbc:mysql:// server-name : server-port / database-name Note – NOTE: Default server port is 3306
-        dataSource​.setUrl("jdbc:mysql://172.17.0.2  :3306/eagle_totens");
+        dataSource​.setUrl("jdbc:mysql://172.17.0.2:3306/eagle_totens");
         
         dataSource​.setUsername("root");
         dataSource​.setPassword("urubu100");
